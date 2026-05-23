@@ -4,7 +4,7 @@ A robust and intuitive **Human Resource Management System (HRMS)** designed to s
 
 ---
 
-## 📸 Screenshots
+
 
 <table width="100%">
   <tr>
@@ -29,17 +29,26 @@ A robust and intuitive **Human Resource Management System (HRMS)** designed to s
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>Employee Dashboard</h3>
-      <img src="screnshots/emp_dashboard.png" alt="Employee Dashboard" width="100%"/>
+      <h3>Database</h3>
+      <img src="screnshots/database.png" alt="Employee Dashboard" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <h3>Employee Profile</h3>
-      <img src="screnshots/emp_profile.png" alt="Employee Profile" width="100%"/>
+      <h3>Admin Dashboard</h3>
+      <img src="screnshots/admin_dashboard.png" alt="Employee Profile" width="100%"/>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>User DashBoard in Admin Panel</h3>
+      <img src="screnshots/admin_selectuser.png" alt="Employee Dashboard" width="100%"/>
+    </td>
+    
   </tr>
 </table>
 
 ---
+
+
 
 ## ✨ Key Features
 
@@ -61,8 +70,8 @@ A robust and intuitive **Human Resource Management System (HRMS)** designed to s
 ## 🛠️ Tech Stack
 
 *   **Frontend:** HTML5, CSS3, JavaScript
-*   **Backend:** Node.js / Express
-*   **Database:** MongoDB / MySQL
+*   **Backend:** Django
+*   **Database:** SQlite
 *   **Version Control:** Git & GitHub
 
 ---
