@@ -10,21 +10,31 @@ A robust and intuitive **Human Resource Management System (HRMS)** designed to s
   <tr>
     <td width="50%" align="center">
       <h3>Sign Up Page</h3>
-      <img src="screenshots/signup.png" alt="Sign Up Page" width="100%"/>
+      <img src="screnshots/signup.png" alt="Sign Up Page" width="100%"/>
     </td>
     <td width="50%" align="center">
       <h3>Login Page</h3>
-      <img src="screenshots/login.png" alt="Login Page" width="100%"/>
+      <img src="screnshots/login.png" alt="Login Page" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>Employee Dashboard</h3>
-      <img src="screenshots/emp_dashboard.png" alt="Employee Dashboard" width="100%"/>
+      <img src="screnshots/emp_dashboard.png" alt="Employee Dashboard" width="100%"/>
     </td>
     <td width="50%" align="center">
       <h3>Employee Profile</h3>
-      <img src="screenshots/emp_profile.png" alt="Employee Profile" width="100%"/>
+      <img src="screnshots/emp_profile.png" alt="Employee Profile" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Employee Dashboard</h3>
+      <img src="screnshots/emp_dashboard.png" alt="Employee Dashboard" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <h3>Employee Profile</h3>
+      <img src="screnshots/emp_profile.png" alt="Employee Profile" width="100%"/>
     </td>
   </tr>
 </table>
