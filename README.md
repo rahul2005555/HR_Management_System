@@ -9,30 +9,23 @@ A robust and intuitive **Human Resource Management System (HRMS)** designed to s
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>Admin Dashboard</h3>
-      <img src="screnshots/signup.png" alt="Admin Dashboard" width="100%"/>
+      <h3>Sign Up Page</h3>
+      <img src="screenshots/signup.png" alt="Sign Up Page" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <h3>Employee Management</h3>
-      <img src="screnshots/login.png" alt="Employee Directory" width="100%"/>
+      <h3>Login Page</h3>
+      <img src="screenshots/login.png" alt="Login Page" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>Attendance Tracker</h3>
-      <img src="screnshots/emp_dashboard.png" alt="Attendance Tracking" width="100%"/>
+      <h3>Employee Dashboard</h3>
+      <img src="screenshots/emp_dashboard.png" alt="Employee Dashboard" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <h3>Task Assignment</h3>
-      <img src="screnshots/signup.png" alt="Task Assignment" width="100%"/>
+      <h3>Employee Profile</h3>
+      <img src="screenshots/emp_profile.png" alt="Employee Profile" width="100%"/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Leave Management</h3>
-      <img src="screnshots/emp_profile.png" alt="Leave Requests" width="100%"/>
-    </td>
-    
   </tr>
 </table>
 
@@ -63,7 +56,3 @@ A robust and intuitive **Human Resource Management System (HRMS)** designed to s
 *   **Version Control:** Git & GitHub
 
 ---
-
-## 📂 Project Structure
-
-To ensure the images display correctly in the table above, place your PNG files in the `screenshots/` directory matching these exact filenames:
